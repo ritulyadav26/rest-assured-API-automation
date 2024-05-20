@@ -242,7 +242,7 @@ public class postUsers {
         System.out.println(response.getBody().asString());
     }
 
-    @Test
+    @Test(description = "Validate the response with POJO")
     public void validatePostResponseWithPojoListObject() {
 
         String name = "bangalore";
