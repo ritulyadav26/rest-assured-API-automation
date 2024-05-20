@@ -1,0 +1,17 @@
+{
+  "username": "postman",
+  "password" : "password",
+  "endpoint" : "users",
+  "languages" : ["Python", "Java", "Javascript"],
+  "technology" : ["AI", "ML", "Analytics"],
+  "getUsers" : ["AI", "ML", "Analytics"],
+  "getErgast" : [1,2,3],
+  "contact": [
+    "e-mail: sidharth.shukla19@gmail.com",
+    "phone: 9848022338",
+    "city: Hyderabad",
+    "Area: Madapur",
+    "State: Telangana"
+  ]
+  
+}
